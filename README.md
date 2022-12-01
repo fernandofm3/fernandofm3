@@ -23,7 +23,7 @@
 <br> 
   
 Acho incrível a idea de criar algo para ajudar as pessoas, e no mundo dos Devs isso é possível!<br>
-Atualmente estou estudando na DigitalHouse para buscar mais conhecimentos e principamenlte aprender <b>JAVASCRIPT</b>, <b>NODE.JS</b> e <b>REACT</b>. Trabalho com tecnologia aproximadamente 12 anos. Sou formado em Redes de Computadores e Segurança da informação. Possuo conhecimentos com relação ao <b>MYSQL</b>
+Recentimente finalizei o curso de Desenvolvedor Web Full Stack na DigitalHouse. No curso pude aprender muitas coisas como, <b>JAVASCRIPT</b>, <b>NODE.JS</b> e <b>REACT</b>. Trabalho com tecnologia aproximadamente 12 anos. Sou formado em Redes de Computadores e Segurança da informação. Possuo conhecimentos com relação ao <b>MYSQL</b>
 e meu <b>S.O</b> principal de trabalho é <b>LINUX</b>.
 
 ### Contato ✉️ 
