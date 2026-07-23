@@ -18,6 +18,7 @@
   <img algin="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img algin="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img algin="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img algin="center" alt="LINUX" src="https://img.shields.io/badge/Next.js-EEE?style=for-the-badge&logo=nextjs&logoColor=black">
 <div>
 
 <br> 
