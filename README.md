@@ -3,10 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandofm3/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandofm3/)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandofm3&show_icons=true&theme=dracula)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofm3)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias do meu dia a dia 🖥️
 
 <div stayle="display: inline_block">
