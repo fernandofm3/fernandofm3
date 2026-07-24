@@ -9,7 +9,7 @@
 
 Acredito no poder da tecnologia para transformar ideias em soluções reais. Com uma trajetória consolidada de mais de 14 anos na área de TI, transitei da base sólida em **Infraestrutura, Redes e Segurança da Informação** para o **Desenvolvimento Web Full Stack**.
 
-Essa base técnica me permite desenvolver aplicações não apenas funcionais, mas seguras, performáticas e bem arquitetadas. Recentemente, aprofundei meus conhecimentos no ecossistema moderno de desenvolvimento através da formação em Desenvolvimento Web Full Stack na DigitalHouse.
+Essa base técnica me permite desenvolver aplicações não apenas funcionais, mas seguras, performáticas e bem arquitetadas. Consolidei minha transição para o desenvolvimento através da formação em Desenvolvimento Web Full Stack pela DigitalHouse, aprofundando meus conhecimentos no ecossistema moderno de programação.
 
 ---
 
