@@ -32,8 +32,10 @@ Essa base técnica me permite desenvolver aplicações não apenas funcionais, m
 
 ### Projetos de Destaque 🚀
 
-*   **PokéView (React):** [Acesse aqui](https://pokeview.netlify.app/)
+*   **Eyeweb (Next.js):** [Acesse aqui](https://clientes.eyeapp.com.br/login)
 *   **Nodachime (Next.js):** [Acesse aqui](https://nodachime.netlify.app/)
+*   **PokéView (React):** [Acesse aqui](https://pokeview.netlify.app/)
+
 
 ---
 
