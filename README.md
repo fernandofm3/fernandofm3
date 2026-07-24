@@ -1,28 +1,41 @@
 ### Olá! Me chamo Fernando F. Mendonça 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandofm3/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandofm3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandofm3/)
 
-### Tecnologias do meu dia a dia 🖥️
+---
 
-<div stayle="display: inline_block">
-  <img algin="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img algin="center" alt="CCS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img algin="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img algin="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img algin="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img algin="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img algin="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img algin="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img algin="center" alt="LINUX" src="https://img.shields.io/badge/Next.js-EEE?style=for-the-badge&logo=nextjs&logoColor=black">
-<div>
+### Sobre mim
 
-<br> 
-  
-Acho incrível a idea de criar algo para ajudar as pessoas, e no mundo dos Devs isso é possível!<br>
-Recentimente finalizei o curso de Desenvolvedor Web Full Stack na DigitalHouse. No curso pude aprender muitas coisas como, <b>JAVASCRIPT</b>, <b>NODE.JS</b> e <b>REACT</b>. Trabalho com tecnologia aproximadamente 12 anos. Sou formado em Redes de Computadores e Segurança da informação. Possuo conhecimentos com relação ao <b>MYSQL</b>
-e meu <b>S.O</b> principal de trabalho é <b>LINUX</b>.
+Acredito no poder da tecnologia para transformar ideias em soluções reais. Com uma trajetória consolidada de mais de 14 anos na área de TI, transitei da base sólida em **Infraestrutura, Redes e Segurança da Informação** para o **Desenvolvimento Web Full Stack**.
 
-### Contato ✉️ 
+Essa base técnica me permite desenvolver aplicações não apenas funcionais, mas seguras, performáticas e bem arquitetadas. Recentemente, aprofundei meus conhecimentos no ecossistema moderno de desenvolvimento através da formação em Desenvolvimento Web Full Stack na DigitalHouse.
 
- - [fernandofm3@gmail.com](#)
+---
+
+### Tecnologias do dia a dia 🖥️
+
+<div style="display: inline-block">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white">
+  <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
+---
+
+### Projetos de Destaque 🚀
+
+*   **PokéView (React):** [Acesse aqui](https://pokeview.netlify.app/)
+*   **Nodachime (Next.js):** [Acesse aqui](https://nodachime.netlify.app/)
+
+---
+
+### Contato ✉️
+
+*   **E-mail:** fernandofm3@gmail.com
